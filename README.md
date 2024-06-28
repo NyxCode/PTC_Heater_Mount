@@ -39,7 +39,8 @@ Instead, join us in [Armchair Heavy Industries](https://discord.gg/armchairengin
 
 * Spicy Meatball Plate from either:
   * SendCutSend, using the DXF drawing.
-  * Provok3d.com https://provok3d.com/product/%F0%9F%94%A5spicy-meatball%F0%9F%94%A5-by-giulianom/
+  * Provok3d.com https://provok3d.com/product/ptc-heater-plates/?v=7516fd43adaa
+    * Choose Version 1
     * I get a small commission on this product from Provok3d
     * The Spicy Meatball plate from Provok3d is aluminum, and doesn't tap well.
     * The 4mm holes for the fan mounts are instead drilled through, and M4 nuts are included instead.
